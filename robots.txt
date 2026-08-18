@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-s391o2.pulaucuan.sbs/sitemap.xml
